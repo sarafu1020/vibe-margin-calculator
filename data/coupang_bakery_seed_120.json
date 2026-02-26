@@ -1,0 +1,1205 @@
+{
+  "count": 120,
+  "materials": [
+    {
+      "id": "",
+      "name": "코스트코 곰표 중력 밀가루 1KG X 6, 6kg, 2개",
+      "price": 24880,
+      "weight": 6000,
+      "pricePerGram": 4.1467,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8288542341&itemId=19793268750&vendorItemId=91677451589&traceid=V0-153-4a8b3963c5bdd3b8&clickBeacon=b10005a0-130c-11f1-a09c-af24031c49b0%7E3&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 8288542341
+    },
+    {
+      "id": "",
+      "name": "백설 강력 밀가루",
+      "price": 5300,
+      "weight": 1000,
+      "pricePerGram": 5.3,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=2442103&itemId=171231&vendorItemId=3000094812&traceid=V0-153-70e19c05de6abac8&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 2442103
+    },
+    {
+      "id": "",
+      "name": "[황금빛들녘] 우리밀 통밀가루 앉은뱅이밀/호밀/아리흑밀 3kg, 3kg, 1개",
+      "price": 19900,
+      "weight": 3000,
+      "pricePerGram": 6.6333,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8244609814&itemId=23574106197&vendorItemId=71292208284&traceid=V0-153-1e8273b912ca463f&clickBeacon=b10005a0-130c-11f1-b219-9ba29dd08f80%7E3&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 8244609814
+    },
+    {
+      "id": "",
+      "name": "곰표 강력 밀가루",
+      "price": 8900,
+      "weight": 1000,
+      "pricePerGram": 8.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=2764343&itemId=18320049134&vendorItemId=85464829814&traceid=V0-153-2011269afcfdbca5&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 2764343
+    },
+    {
+      "id": "",
+      "name": "백설 박력밀가루 2.5kg, 2.5kg, 6개",
+      "price": 35100,
+      "weight": 2500,
+      "pricePerGram": 14.04,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7235541054&itemId=18900957358&vendorItemId=94332581454&traceid=V0-153-2b76d3e93c2dd703&clickBeacon=b10005a0-130c-11f1-ac02-9489859e7b61%7E3&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 7235541054
+    },
+    {
+      "id": "",
+      "name": "대한제분 코끼리 빵용 강력 밀가루",
+      "price": 15900,
+      "weight": 1000,
+      "pricePerGram": 15.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8288526749&itemId=23415851331&vendorItemId=4935144170&traceid=V0-153-560c170abe43b3b6&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 8288526749
+    },
+    {
+      "id": "",
+      "name": "대한제분 강력밀가루 제빵전용분",
+      "price": 24500,
+      "weight": 1000,
+      "pricePerGram": 24.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5761414325&itemId=9758090176&vendorItemId=77041800007&traceid=V0-153-3eb9acd06142e46a&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 5761414325
+    },
+    {
+      "id": "",
+      "name": "국산 토종 앉은뱅이 통밀가루(강력분) 앉은키 밀가루, 5개, 700g",
+      "price": 30100,
+      "weight": 700,
+      "pricePerGram": 43.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8670129070&itemId=26581716089&vendorItemId=93555115097&traceid=V0-153-efba01e8de30b691&clickBeacon=b10005a0-130c-11f1-8d64-f288fda3f09b%7E3&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 8670129070
+    },
+    {
+      "id": "",
+      "name": "스테인레스 초강력 봉자석100-300mm 고추 밀가루 철분제거 10,000가우스, 1개",
+      "price": 95000,
+      "weight": 1000,
+      "pricePerGram": 95.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5177145357&itemId=7156031181&vendorItemId=74447730484&traceid=V0-153-6c34a211cd37137c&clickBeacon=b0ffde90-130c-11f1-a691-82b78cd77d4c%7E3&requestid=20260226211425513111343351&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "강력분",
+      "productId": 5177145357
+    },
+    {
+      "id": "",
+      "name": "배대감 이스트",
+      "price": 1990,
+      "weight": 1000,
+      "pricePerGram": 1.99,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8989223285&itemId=26330028671&vendorItemId=93307312714&traceid=V0-153-ca9cbfe6d0a193bb&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 8989223285
+    },
+    {
+      "id": "",
+      "name": "배대감 이스트",
+      "price": 3980,
+      "weight": 1000,
+      "pricePerGram": 3.98,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7764762128&itemId=25335265898&vendorItemId=92330015218&traceid=V0-153-3239bfb484531749&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 7764762128
+    },
+    {
+      "id": "",
+      "name": "카푸토1924 드라이 이스트",
+      "price": 5800,
+      "weight": 1000,
+      "pricePerGram": 5.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6601526797&itemId=17970688210&vendorItemId=82162700235&traceid=V0-153-a0c58e34427311c2&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 6601526797
+    },
+    {
+      "id": "",
+      "name": "르사프 드라이 이스트",
+      "price": 7160,
+      "weight": 1000,
+      "pricePerGram": 7.16,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8243847678&itemId=18691103035&vendorItemId=93830688178&traceid=V0-153-5f05a5c316472d94&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 8243847678
+    },
+    {
+      "id": "",
+      "name": "Eagle 인스턴트 드라이 이스트, 2개, 500g",
+      "price": 8560,
+      "weight": 500,
+      "pricePerGram": 17.12,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6764321263&itemId=23140933950&vendorItemId=92855944278&traceid=V0-153-78e2858e7804252e&clickBeacon=b2581b90-130c-11f1-8caa-50d2d18258fa%7E3&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 6764321263
+    },
+    {
+      "id": "",
+      "name": "[팍마야] 인스턴트 드라이 이스트 소포장 11g x 60입",
+      "price": 18900,
+      "weight": 660,
+      "pricePerGram": 28.6364,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6331320693&itemId=13240330092&vendorItemId=94669588472&traceid=V0-153-889123738c848aa2&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 6331320693
+    },
+    {
+      "id": "",
+      "name": "사프 인스턴트 이스트 골드 500g, 20개 1박스 샤프 드라이 건조, 500g, 20개",
+      "price": 117900,
+      "weight": 500,
+      "pricePerGram": 235.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8289729295&itemId=25223304313&vendorItemId=92090109540&traceid=V0-153-23d3a9e9ad86b3f2&clickBeacon=b2581b90-130c-11f1-8122-8bb53ef74192%7E3&requestid=20260226211427771325025270&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "드라이이스트",
+      "productId": 8289729295
+    },
+    {
+      "id": "",
+      "name": "프레지덩 무염버터팩",
+      "price": 11900,
+      "weight": 1000,
+      "pricePerGram": 11.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=111245588&itemId=335084311&vendorItemId=82068155634&traceid=V0-153-c7ada0f805e6b4a3&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 111245588
+    },
+    {
+      "id": "",
+      "name": "앵커 버터 (냉동)",
+      "price": 15900,
+      "weight": 1000,
+      "pricePerGram": 15.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=206818868&itemId=19224737744&vendorItemId=86341408674&traceid=V0-153-4c24503c4a4cc6bb&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 206818868
+    },
+    {
+      "id": "",
+      "name": "프렙델리 식물성 액상버터, 1개, 2L",
+      "price": 48000,
+      "weight": 2000,
+      "pricePerGram": 24.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9302543022&itemId=27558424268&vendorItemId=94522518590&traceid=V0-153-9ac6457b1042956a&clickBeacon=b1869ac0-130c-11f1-96a0-6f7016c57748%7E3&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 9302543022
+    },
+    {
+      "id": "",
+      "name": "앵커 무염버터",
+      "price": 27360,
+      "weight": 1000,
+      "pricePerGram": 27.36,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9265140313&itemId=22121486341&vendorItemId=94431695651&traceid=V0-153-232c5d88a7a67801&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 9265140313
+    },
+    {
+      "id": "",
+      "name": "앵카버터 454g 뉴질랜드 앵커버터 아이스박스 아이스팩 무료",
+      "price": 18730,
+      "weight": 454,
+      "pricePerGram": 41.2555,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7847571181&itemId=24253603203&vendorItemId=93234207731&traceid=V0-153-69a2abffccb9d5d1&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 7847571181
+    },
+    {
+      "id": "",
+      "name": "목초방목 기버터(주문시 국내생산) 거두올림 320g, 320g, 1개",
+      "price": 27500,
+      "weight": 320,
+      "pricePerGram": 85.9375,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8989914168&itemId=27698423134&vendorItemId=94660144422&traceid=V0-153-9de5f7d5894cba4b&clickBeacon=b186c1d0-130c-11f1-9692-f701180d9318%7E3&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 8989914168
+    },
+    {
+      "id": "",
+      "name": "이즈니 트러플 수제 버터 (무염), 250g, 1개",
+      "price": 32950,
+      "weight": 250,
+      "pricePerGram": 131.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7954264617&itemId=24961526417&vendorItemId=92847613574&traceid=V0-153-4a8a6f1952ab41ae&clickBeacon=b1869ac0-130c-11f1-a36d-e2d8824c4151%7E3&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 7954264617
+    },
+    {
+      "id": "",
+      "name": "앵커버터 (무가염 - 나트륨 함유제품) [원산지:뉴질랜드], 40개, 227g",
+      "price": 181170,
+      "weight": 227,
+      "pricePerGram": 798.1057,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9081548022&itemId=27586370286&vendorItemId=94549951181&traceid=V0-153-d779ce483b83ba46&clickBeacon=b1869ac0-130c-11f1-ab61-79096e856168%7E3&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 9081548022
+    },
+    {
+      "id": "",
+      "name": "빵에 발라먹기 좋은 무염 포션버터 7g / 빵버터, 60개, 7g",
+      "price": 17900,
+      "weight": 7,
+      "pricePerGram": 2557.1429,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7652737477&itemId=26883167626&vendorItemId=93852699578&traceid=V0-153-846f2e23aa199355&clickBeacon=b186c1d0-130c-11f1-8803-938c8c64ca17%7E3&requestid=20260226211426395040929916&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "무염버터",
+      "productId": 7652737477
+    },
+    {
+      "id": "",
+      "name": "브레드가든 바닐라 에센스",
+      "price": 5810,
+      "weight": 1000,
+      "pricePerGram": 5.81,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8288390974&itemId=521041675&vendorItemId=4346865512&traceid=V0-153-b4ce783ada9e02e5&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 8288390974
+    },
+    {
+      "id": "",
+      "name": "브레드가든 바닐라오일",
+      "price": 7660,
+      "weight": 1000,
+      "pricePerGram": 7.66,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=1602490042&itemId=6712324613&vendorItemId=85322116740&traceid=V0-153-1a1ebe8be58f02eb&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 1602490042
+    },
+    {
+      "id": "",
+      "name": "바니브로 바닐라빈 익스트랙",
+      "price": 19800,
+      "weight": 1000,
+      "pricePerGram": 19.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6386549981&itemId=13593526171&vendorItemId=92042750979&traceid=V0-153-5e37f8931e250ea9&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 6386549981
+    },
+    {
+      "id": "",
+      "name": "bon vanilla 리얼 바닐라빈 익스트렉 110g",
+      "price": 16900,
+      "weight": 110,
+      "pricePerGram": 153.6364,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7865705269&itemId=21474514052&vendorItemId=88528783338&traceid=V0-153-a8ff8b171a1069ad&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 7865705269
+    },
+    {
+      "id": "",
+      "name": "해피바닐라 바닐라빈 B grade, 1kg, 1개",
+      "price": 399900,
+      "weight": 1000,
+      "pricePerGram": 399.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8244618394&itemId=10731868134&vendorItemId=78012474848&traceid=V0-153-7d1ce708f59b04bb&clickBeacon=b35d5690-130c-11f1-a6d3-9ba4eecf5b06%7E3&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 8244618394
+    },
+    {
+      "id": "",
+      "name": "프리미엄 바닐라빈, 25g, 3개",
+      "price": 51000,
+      "weight": 25,
+      "pricePerGram": 2040.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7849580469&itemId=19443216417&vendorItemId=86554192124&traceid=V0-153-0e3ffb6d3aa76df3&clickBeacon=b35d5690-130c-11f1-853f-6c2ae5b8b0e5%7E3&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 7849580469
+    },
+    {
+      "id": "",
+      "name": "갈아서 먹는 프리미엄 바닐라빈 마다가스카르 gourmet 최상급, 1개, 30g",
+      "price": 68000,
+      "weight": 30,
+      "pricePerGram": 2266.6667,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8917768996&itemId=26057769710&vendorItemId=93039115999&traceid=V0-153-e66b84e5c3e6cb8a&clickBeacon=b35d5690-130c-11f1-99f1-9f8ee0712017%7E3&requestid=20260226211429478304538155&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "바닐라익스트랙",
+      "productId": 8917768996
+    },
+    {
+      "id": "",
+      "name": "백설 박력 밀가루",
+      "price": 2160,
+      "weight": 1000,
+      "pricePerGram": 2.16,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8636235561&itemId=25058469104&vendorItemId=92062734178&traceid=V0-153-62ffe2f3f3908a16&requestid=20260226211425682200297316&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "박력분",
+      "productId": 8636235561
+    },
+    {
+      "id": "",
+      "name": "새롬푸드 가루미박력쌀가루, 1개, 15kg",
+      "price": 36100,
+      "weight": 15000,
+      "pricePerGram": 2.4067,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9061154183&itemId=24691524878&vendorItemId=91701337787&traceid=V0-153-5def93f4c185788f&clickBeacon=b119f640-130c-11f1-8d97-32eaaaf5d06a%7E3&requestid=20260226211425682200297316&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "박력분",
+      "productId": 9061154183
+    },
+    {
+      "id": "",
+      "name": "햇방아 제빵생활 박력쌀가루 10kg / 쌀가루(국산)100%, 1개, 10kg",
+      "price": 29500,
+      "weight": 10000,
+      "pricePerGram": 2.95,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8239540163&itemId=24091965101&vendorItemId=87438452326&traceid=V0-153-8065b662ff11bf21&clickBeacon=b11a1d50-130c-11f1-af4f-8e3734235238%7E3&requestid=20260226211425682200297316&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "박력분",
+      "productId": 8239540163
+    },
+    {
+      "id": "",
+      "name": "곰표 박력 밀가루",
+      "price": 4220,
+      "weight": 1000,
+      "pricePerGram": 4.22,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=4953089&itemId=25523345755&vendorItemId=92662759667&traceid=V0-153-0d66b4f068c3fca5&requestid=20260226211425682200297316&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "박력분",
+      "productId": 4953089
+    },
+    {
+      "id": "",
+      "name": "우리밀 [농협] 통밀가루 1kg, 1kg, 5개",
+      "price": 19300,
+      "weight": 1000,
+      "pricePerGram": 19.3,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9334804954&itemId=27301998757&vendorItemId=94268534699&traceid=V0-153-b9beda306005d250&clickBeacon=b11a1d50-130c-11f1-a20a-e3011f3611fc%7E3&requestid=20260226211425682200297316&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "박력분",
+      "productId": 9334804954
+    },
+    {
+      "id": "",
+      "name": "Organic KAMUT 호라산 밀가루 1파운드 돌로 갈은 가루 100% 통곡물, 1개, 500g",
+      "price": 146200,
+      "weight": 500,
+      "pricePerGram": 292.4,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8608795548&itemId=24193605973&vendorItemId=91211293759&traceid=V0-153-62df9e91e0b853e1&clickBeacon=b119f640-130c-11f1-ba00-d0f19e529e4b%7E3&requestid=20260226211425682200297316&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "박력분",
+      "productId": 8608795548
+    },
+    {
+      "id": "",
+      "name": "세제의기본 천연 세제 3종 세트 베이킹소다+구연산+과탄산소다 2kgX3개, 1세트",
+      "price": 28900,
+      "weight": 6000,
+      "pricePerGram": 4.8167,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7702379684&itemId=20625979553&vendorItemId=94811615309&traceid=V0-153-4505520932430c35&clickBeacon=b2d93270-130c-11f1-94c3-78f8f4c9e172%7E3&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 7702379684
+    },
+    {
+      "id": "",
+      "name": "참그린 참 순수한 베이킹소다",
+      "price": 6210,
+      "weight": 1000,
+      "pricePerGram": 6.21,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7070771728&itemId=18197669966&vendorItemId=3121849665&traceid=V0-153-6b25559ffe07e5d7&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 7070771728
+    },
+    {
+      "id": "",
+      "name": "[비건라이프] 한입 베이킹소다 알파",
+      "price": 6700,
+      "weight": 1000,
+      "pricePerGram": 6.7,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6596056165&itemId=132235438&vendorItemId=88353424154&traceid=V0-153-00f4a6a72fad36e0&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 6596056165
+    },
+    {
+      "id": "",
+      "name": "암앤해머 베이킹소다",
+      "price": 7320,
+      "weight": 1000,
+      "pricePerGram": 7.32,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8374242252&itemId=3296287&vendorItemId=93138690031&traceid=V0-153-8c7e8ef78a99f1ec&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 8374242252
+    },
+    {
+      "id": "",
+      "name": "소다스쿨 베이킹소다 대용량, 3kg, 6개",
+      "price": 32520,
+      "weight": 3000,
+      "pricePerGram": 10.84,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=157999828&itemId=18173823666&vendorItemId=85323081145&traceid=V0-153-5507588cf67d4821&clickBeacon=b2d93270-130c-11f1-9efd-9926c5cc4339%7E3&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 157999828
+    },
+    {
+      "id": "",
+      "name": "순담 베이킹소다",
+      "price": 17790,
+      "weight": 1000,
+      "pricePerGram": 17.79,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7890729952&itemId=21603441825&vendorItemId=91163005980&traceid=V0-153-3eaf7eb89529536d&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 7890729952
+    },
+    {
+      "id": "",
+      "name": "아이앤어스 국내산 프리미엄 베이킹소다, 6개, 1kg",
+      "price": 25200,
+      "weight": 1000,
+      "pricePerGram": 25.2,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8984800909&itemId=26471851275&vendorItemId=93446981194&traceid=V0-153-9e588fc617f4765c&clickBeacon=b2d93270-130c-11f1-8bf0-9bf420d5df4d%7E3&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 8984800909
+    },
+    {
+      "id": "",
+      "name": "소다스쿨 베이킹소다1kg + 구연산1kg + 과탄산소다1kg 세트, 3세트",
+      "price": 41100,
+      "weight": 1000,
+      "pricePerGram": 41.1,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6059567645&itemId=18173823205&vendorItemId=85323080533&traceid=V0-153-7bc970006c1de18d&clickBeacon=b2d93270-130c-11f1-be3a-487652ab7099%7E3&requestid=20260226211428612274307364&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹소다",
+      "productId": 6059567645
+    },
+    {
+      "id": "",
+      "name": "퓨어홈 베이킹소다 3kg x 2개(6kg), 3kg, 2개",
+      "price": 9880,
+      "weight": 6000,
+      "pricePerGram": 1.6467,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7558575446&itemId=19908345467&vendorItemId=86983919460&traceid=V0-153-68c24c2095897770&clickBeacon=b2bd4600-130c-11f1-bdb9-d10ed939a1ed%7E3&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 7558575446
+    },
+    {
+      "id": "",
+      "name": "곰곰 베이킹 파우더",
+      "price": 2500,
+      "weight": 1000,
+      "pricePerGram": 2.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8677965391&itemId=25191327214&vendorItemId=92188067441&traceid=V0-153-fafbcad6afcec110&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 8677965391
+    },
+    {
+      "id": "",
+      "name": "브레드가든 착한 베이킹파우더",
+      "price": 4400,
+      "weight": 1000,
+      "pricePerGram": 4.4,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=1066495005&itemId=2013341985&vendorItemId=70013142933&traceid=V0-153-a60a6f3c49f8870f&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 1066495005
+    },
+    {
+      "id": "",
+      "name": "SIB 베이킹 파우더",
+      "price": 5200,
+      "weight": 1000,
+      "pricePerGram": 5.2,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=54987976&itemId=191768951&vendorItemId=70108317380&traceid=V0-153-4a66ae913d665a39&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 54987976
+    },
+    {
+      "id": "",
+      "name": "브레드가든 무알루미늄 착한 베이킹 파우더",
+      "price": 11400,
+      "weight": 1000,
+      "pricePerGram": 11.4,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=1419359609&itemId=2457080618&vendorItemId=71233128835&traceid=V0-153-076781115441e59b&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 1419359609
+    },
+    {
+      "id": "",
+      "name": "백설 핫케익믹스, 1kg, 2개",
+      "price": 11400,
+      "weight": 1000,
+      "pricePerGram": 11.4,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=105150&itemId=8370866&vendorItemId=93290257832&traceid=V0-153-136f931f08343f5a&clickBeacon=b2bd4600-130c-11f1-b9aa-731d71437140%7E3&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 105150
+    },
+    {
+      "id": "",
+      "name": "껍질까지 통째로 갈아 더 고소한 100% 구운 아몬드 가루 비건 베이킹 분말 파우더 글루텐프리, 1개",
+      "price": 18900,
+      "weight": 1000,
+      "pricePerGram": 18.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7825654109&itemId=24274844121&vendorItemId=91291266818&traceid=V0-153-3f36491ef6603c64&clickBeacon=b2bd4600-130c-11f1-8d18-af951e48362b%7E3&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 7825654109
+    },
+    {
+      "id": "",
+      "name": "[1KG] 무가당 더치 코코아 가루 분말(100%) 네덜란드산, 1개, 1kg, 1개입",
+      "price": 27500,
+      "weight": 1000,
+      "pricePerGram": 27.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6761448284&itemId=15846720259&vendorItemId=83057569759&traceid=V0-153-dd86db24e39efd91&clickBeacon=b2bd4600-130c-11f1-81ea-fd185b261b65%7E3&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 6761448284
+    },
+    {
+      "id": "",
+      "name": "새마원 베이킹파우더 분말, 20개, 150g",
+      "price": 15780,
+      "weight": 150,
+      "pricePerGram": 105.2,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8783951482&itemId=25559629185&vendorItemId=92550943330&traceid=V0-153-d6abb0eb008d11d9&clickBeacon=b2bd4600-130c-11f1-9e09-13ea116b309f%7E3&requestid=20260226211428432042472688&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "베이킹파우더",
+      "productId": 8783951482
+    },
+    {
+      "id": "",
+      "name": "[로켓프레시] 남양유업 생크림 골드",
+      "price": 5940,
+      "weight": 1000,
+      "pricePerGram": 5.94,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7858667221&itemId=21439368367&vendorItemId=88494016634&traceid=V0-153-10ff76491fa7f6cd&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 7858667221
+    },
+    {
+      "id": "",
+      "name": "서울우유 생크림",
+      "price": 6200,
+      "weight": 1000,
+      "pricePerGram": 6.2,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=1261099141&itemId=2262176852&vendorItemId=70259447962&traceid=V0-153-5f65c8bf716effed&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 1261099141
+    },
+    {
+      "id": "",
+      "name": "[로켓프레시] 덴마크 생크림",
+      "price": 9780,
+      "weight": 1000,
+      "pricePerGram": 9.78,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7914698706&itemId=21725973545&vendorItemId=88775180838&traceid=V0-153-e8e3818daafd6596&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 7914698706
+    },
+    {
+      "id": "",
+      "name": "새마원 버터 와플 크림 시럽 잼 토핑 휘핑 카페 재료 생크림, 3kg, 2개",
+      "price": 36800,
+      "weight": 3000,
+      "pricePerGram": 12.2667,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8401685001&itemId=20962188280&vendorItemId=91248613630&traceid=V0-153-8d4be8ee3c7cf8e1&clickBeacon=b3ae83d0-130c-11f1-b6e9-6f65f0d7cc05%7E3&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 8401685001
+    },
+    {
+      "id": "",
+      "name": "새마원 초코 와플 크림 시럽 잼 토핑 휘핑 카페 재료 생크림, 2개, 3kg",
+      "price": 37800,
+      "weight": 3000,
+      "pricePerGram": 12.6,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8579456150&itemId=18751134350&vendorItemId=91873059679&traceid=V0-153-54e4e53742fb11bb&clickBeacon=b3ae83d0-130c-11f1-99bd-bf03ef6c7c65%7E3&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 8579456150
+    },
+    {
+      "id": "",
+      "name": "서울우유 동물성 생크림 500g",
+      "price": 7790,
+      "weight": 500,
+      "pricePerGram": 15.58,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5643862234&itemId=14221657683&vendorItemId=90940652166&traceid=V0-153-d6849499e5db896c&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 5643862234
+    },
+    {
+      "id": "",
+      "name": "러시아 사워크림 스메타나 sour cream cmetaha smetana 토핑, 1개, 250g",
+      "price": 5200,
+      "weight": 250,
+      "pricePerGram": 20.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9268532625&itemId=27876576966&vendorItemId=88124733915&traceid=V0-153-15573945cba28f74&clickBeacon=b3ae83d0-130c-11f1-b357-61e5f194eaa7%7E3&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 9268532625
+    },
+    {
+      "id": "",
+      "name": "메이드케이크 휘핑생크림 80g 130g, 노오븐 홈베이킹 케이크만들기 DIY (하절기 냉매박스 추가구매필수), 130g, 1개",
+      "price": 2350,
+      "weight": 80,
+      "pricePerGram": 29.375,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8288902422&itemId=27105720792&vendorItemId=94073849622&traceid=V0-153-d93d47c142e97837&clickBeacon=b3ae83d0-130c-11f1-b84e-7114e0727e13%7E3&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 8288902422
+    },
+    {
+      "id": "",
+      "name": "파스퇴르 우유 생크림, 24개, 250ml",
+      "price": 69900,
+      "weight": 250,
+      "pricePerGram": 279.6,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9040081696&itemId=26589743967&vendorItemId=93563042174&traceid=V0-153-649e1eaad5f65a79&clickBeacon=b3ae83d0-130c-11f1-8d8e-6f9fa7d7d463%7E3&requestid=20260226211430007129561534&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "생크림",
+      "productId": 9040081696
+    },
+    {
+      "id": "",
+      "name": "백설 하얀설탕",
+      "price": 6000,
+      "weight": 1000,
+      "pricePerGram": 6.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7143767691&itemId=15326731304&vendorItemId=92867642925&traceid=V0-153-43e85a3c00024872&requestid=20260226211426725111343561&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "설탕",
+      "productId": 7143767691
+    },
+    {
+      "id": "",
+      "name": "자연정미 유기농 비정제 원당 설탕, 1개, 5kg",
+      "price": 32900,
+      "weight": 5000,
+      "pricePerGram": 6.58,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8438651907&itemId=24407881949&vendorItemId=91427252127&traceid=V0-153-fe606927a3cab688&clickBeacon=b1b8a740-130c-11f1-a97d-3ebda3344c1c%7E3&requestid=20260226211426725111343561&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "설탕",
+      "productId": 8438651907
+    },
+    {
+      "id": "",
+      "name": "자다르 유기농 사탕수수 100% 유기농설탕, 2개, 5kg",
+      "price": 33000,
+      "weight": 5000,
+      "pricePerGram": 6.6,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7808432888&itemId=21170598455&vendorItemId=89504290117&traceid=V0-153-898a264baadd441a&clickBeacon=b1b8a740-130c-11f1-8826-0f527f090096%7E3&requestid=20260226211426725111343561&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "설탕",
+      "productId": 7808432888
+    },
+    {
+      "id": "",
+      "name": "슈가스위치 알룰로스, 1.35kg, 1개",
+      "price": 37810,
+      "weight": 1350,
+      "pricePerGram": 28.0074,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8243887914&itemId=23693628306&vendorItemId=87415379627&traceid=V0-153-f438c9c4deb55801&clickBeacon=b1b8a740-130c-11f1-b1be-c0146d4bc96e%7E3&requestid=20260226211426725111343561&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "설탕",
+      "productId": 8243887914
+    },
+    {
+      "id": "",
+      "name": "CJ 백설 하얀설탕, 400g, 16개",
+      "price": 26000,
+      "weight": 400,
+      "pricePerGram": 65.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8591387326&itemId=27465156908&vendorItemId=94430413548&traceid=V0-153-6576491542230358&clickBeacon=b1b8a740-130c-11f1-81cb-76565f7c062d%7E3&requestid=20260226211426725111343561&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "설탕",
+      "productId": 8591387326
+    },
+    {
+      "id": "",
+      "name": "미원 맛소금",
+      "price": 2750,
+      "weight": 1000,
+      "pricePerGram": 2.75,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=1483853018&itemId=6405899457&vendorItemId=84822074376&traceid=V0-153-cba79424933e1466&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 1483853018
+    },
+    {
+      "id": "",
+      "name": "청정원 히말라야 눈꽃소금",
+      "price": 3380,
+      "weight": 1000,
+      "pricePerGram": 3.38,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8131269506&itemId=23091900015&vendorItemId=91509787710&traceid=V0-153-e3224e4c2b90645a&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 8131269506
+    },
+    {
+      "id": "",
+      "name": "백설 천일염꽃 구운소금",
+      "price": 3720,
+      "weight": 1000,
+      "pricePerGram": 3.72,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8321381845&itemId=24018676583&vendorItemId=91039254629&traceid=V0-153-b488daf84599c815&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 8321381845
+    },
+    {
+      "id": "",
+      "name": "청정원 천일염 가는소금",
+      "price": 4200,
+      "weight": 1000,
+      "pricePerGram": 4.2,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5115961078&itemId=8166929407&vendorItemId=75455104060&traceid=V0-153-c366eb29e36944a9&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 5115961078
+    },
+    {
+      "id": "",
+      "name": "샘표 명품 구운소금",
+      "price": 5400,
+      "weight": 1000,
+      "pricePerGram": 5.4,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6837421060&itemId=17943168645&vendorItemId=85101033666&traceid=V0-153-b950baa1ba4deb59&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 6837421060
+    },
+    {
+      "id": "",
+      "name": "소금성 히말랴야 핑크소금 가는입자",
+      "price": 5490,
+      "weight": 1000,
+      "pricePerGram": 5.49,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7423462984&itemId=2615759288&vendorItemId=76637461176&traceid=V0-153-9f73a7649f089dad&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 7423462984
+    },
+    {
+      "id": "",
+      "name": "게랑드 가는 토판 천일염",
+      "price": 5980,
+      "weight": 1000,
+      "pricePerGram": 5.98,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7770026812&itemId=12892559862&vendorItemId=82802315287&traceid=V0-153-d740771c78febd89&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 7770026812
+    },
+    {
+      "id": "",
+      "name": "청정원 순수천혜염 알칼리 구운소금",
+      "price": 9380,
+      "weight": 1000,
+      "pricePerGram": 9.38,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8167421244&itemId=17823029788&vendorItemId=3013430136&traceid=V0-153-49e60e04ee28d9fa&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 8167421244
+    },
+    {
+      "id": "",
+      "name": "솔티드다이아 미네랄 용융 소금, 30회분, 5개",
+      "price": 54500,
+      "weight": 1000,
+      "pricePerGram": 54.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8784808313&itemId=26092771380&vendorItemId=94563303704&traceid=V0-153-1697d8703be9bec8&clickBeacon=b233f1c0-130c-11f1-acbc-4a856ab8aeda%7E3&requestid=20260226211427525200297616&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "소금",
+      "productId": 8784808313
+    },
+    {
+      "id": "",
+      "name": "새롬푸드 분당, 1개, 3kg",
+      "price": 9900,
+      "weight": 3000,
+      "pricePerGram": 3.3,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8534071399&itemId=24703868279&vendorItemId=91713429324&traceid=V0-153-41dad11a4a4c139d&clickBeacon=b202f6b0-130c-11f1-97d5-15e2b2ee8ad0%7E3&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 8534071399
+    },
+    {
+      "id": "",
+      "name": "곰곰 슈가파우더",
+      "price": 4490,
+      "weight": 1000,
+      "pricePerGram": 4.49,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8518158259&itemId=24661390105&vendorItemId=91671822983&traceid=V0-153-04f11147154fa7ed&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 8518158259
+    },
+    {
+      "id": "",
+      "name": "쿠킹스토리 슈가파우더",
+      "price": 9900,
+      "weight": 1000,
+      "pricePerGram": 9.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=4558476605&itemId=5547508248&vendorItemId=4649687333&traceid=V0-153-bb32bd928eb71dd5&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 4558476605
+    },
+    {
+      "id": "",
+      "name": "OQB 슈가파우더",
+      "price": 14990,
+      "weight": 1000,
+      "pricePerGram": 14.99,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7773939363&itemId=20994989711&vendorItemId=74002046064&traceid=V0-153-5505dabc1a7bee32&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 7773939363
+    },
+    {
+      "id": "",
+      "name": "아레스 제로슈가 민트초코 라떼 파우더, 1개, 1개입, 500g",
+      "price": 17000,
+      "weight": 500,
+      "pricePerGram": 34.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8631468895&itemId=25041393566&vendorItemId=92046043369&traceid=V0-153-f5f8a9e1ba7f9e1d&clickBeacon=b202f6b0-130c-11f1-b6bc-4bd380dd1743%7E3&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 8631468895
+    },
+    {
+      "id": "",
+      "name": "슈가반죽 국내생산 컬러반죽 비비드 패키지 360g 슈가크래프트 폰던트 파우더 케이크 케익 도우 공예 [원산지:국산], 360g, 1개",
+      "price": 16500,
+      "weight": 360,
+      "pricePerGram": 45.8333,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8771744085&itemId=25515809184&vendorItemId=92506704201&traceid=V0-153-f80ea8845bb98746&clickBeacon=b202f6b0-130c-11f1-8b1d-f592bcc6a509%7E3&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 8771744085
+    },
+    {
+      "id": "",
+      "name": "신선약초 눈꽃 슈가, 120g, 4개",
+      "price": 26000,
+      "weight": 120,
+      "pricePerGram": 216.6667,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8255345354&itemId=25591425702&vendorItemId=92582205413&traceid=V0-153-65558517cb74b1e1&clickBeacon=b202cfa0-130c-11f1-8de2-901ed70e64e4%7E3&requestid=20260226211427193047659376&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "슈가파우더",
+      "productId": 8255345354
+    },
+    {
+      "id": "",
+      "name": "쿠킹스토리 아몬드 분말",
+      "price": 5860,
+      "weight": 1000,
+      "pricePerGram": 5.86,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5269745164&itemId=17642359&vendorItemId=92899659429&traceid=V0-153-e00183383f28c8b3&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 5269745164
+    },
+    {
+      "id": "",
+      "name": "알티스트 아몬드 파우더",
+      "price": 8450,
+      "weight": 1000,
+      "pricePerGram": 8.45,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7070572320&itemId=27216813888&vendorItemId=79852267485&traceid=V0-153-3f916f937c3c6e24&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 7070572320
+    },
+    {
+      "id": "",
+      "name": "볶은 아몬드분말 1 kg/껍질째 갈아만든 볶음 아몬드 분말/구운",
+      "price": 11510,
+      "weight": 1000,
+      "pricePerGram": 11.51,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7612230820&itemId=25191318814&vendorItemId=79331264762&traceid=V0-153-d93fa94efe00e5b3&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 7612230820
+    },
+    {
+      "id": "",
+      "name": "피키너츠 견과류 무염 생 아몬드, 1개, 1kg",
+      "price": 19000,
+      "weight": 1000,
+      "pricePerGram": 19.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8882533556&itemId=25924558997&vendorItemId=92909991608&traceid=V0-153-54b481ecc746e50b&clickBeacon=b393a8d0-130c-11f1-893f-36092060d827%7E3&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 8882533556
+    },
+    {
+      "id": "",
+      "name": "너츠브라더 아몬드 분말, 2개",
+      "price": 20900,
+      "weight": 1000,
+      "pricePerGram": 20.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7308239609&itemId=27478610933&vendorItemId=94443795163&traceid=V0-153-323bb9db12930a06&clickBeacon=b393a8d0-130c-11f1-aa81-684254722842%7E3&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 7308239609
+    },
+    {
+      "id": "",
+      "name": "오도독상점 아몬드가루 100%, 2개, 1kg",
+      "price": 33900,
+      "weight": 1000,
+      "pricePerGram": 33.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8792467305&itemId=25689026046&vendorItemId=92678267607&traceid=V0-153-8f4a6922fe929f54&clickBeacon=b393a8d0-130c-11f1-8d28-5ddf0ad275df%7E3&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 8792467305
+    },
+    {
+      "id": "",
+      "name": "건강한우리집비옴 고소한 생 아몬드 가루 100%분말, 5개",
+      "price": 55590,
+      "weight": 1000,
+      "pricePerGram": 55.59,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6636039211&itemId=26766197540&vendorItemId=94614862248&traceid=V0-153-db1c1b5f704eb779&clickBeacon=b393a8d0-130c-11f1-ad29-62ac5ca17913%7E3&requestid=20260226211429837096874203&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "아몬드가루",
+      "productId": 6636039211
+    },
+    {
+      "id": "",
+      "name": "산양유 500ml x 9병 1박스, 9개, 500ml",
+      "price": 54000,
+      "weight": 4500,
+      "pricePerGram": 12.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7253055253&itemId=17853988824&vendorItemId=85017329405&traceid=V0-153-d972bba93a90d07e&clickBeacon=b3d6cc50-130c-11f1-8480-cb4e6a527f22%7E3&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 7253055253
+    },
+    {
+      "id": "",
+      "name": "서울우유 멸균 흰우유",
+      "price": 15080,
+      "weight": 1000,
+      "pricePerGram": 15.08,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=4975075206&itemId=20185206891&vendorItemId=71237681228&traceid=V0-153-7148c9fba7475e9f&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 4975075206
+    },
+    {
+      "id": "",
+      "name": "연세우유 멸균 흰우유",
+      "price": 15840,
+      "weight": 1000,
+      "pricePerGram": 15.84,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=3955632&itemId=19336360&vendorItemId=90083625528&traceid=V0-153-8a4651481fb71b95&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 3955632
+    },
+    {
+      "id": "",
+      "name": "매일유업 소화가 잘되는 우유 저지방",
+      "price": 18500,
+      "weight": 1000,
+      "pricePerGram": 18.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=4866924796&itemId=6318908928&vendorItemId=89168968099&traceid=V0-153-8b629bbe5ab06a1f&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 4866924796
+    },
+    {
+      "id": "",
+      "name": "곰곰 신선한 1A 우유",
+      "price": 22140,
+      "weight": 1000,
+      "pricePerGram": 22.14,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=1232968322&itemId=19223670182&vendorItemId=86340356463&traceid=V0-153-1fc5b0b4f277ae56&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 1232968322
+    },
+    {
+      "id": "",
+      "name": "맛있는우유GT",
+      "price": 27960,
+      "weight": 1000,
+      "pricePerGram": 27.96,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6436856710&itemId=23585807716&vendorItemId=85072691748&traceid=V0-153-2a6f944443573a0e&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 6436856710
+    },
+    {
+      "id": "",
+      "name": "데이리스타 밀쉬 저지방 멸균우유, 1L, 24개",
+      "price": 52800,
+      "weight": 1000,
+      "pricePerGram": 52.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7193817761&itemId=19667490885&vendorItemId=86773133886&traceid=V0-153-926f1044c8961dc2&clickBeacon=b3d6cc50-130c-11f1-994b-449f9f0ac004%7E3&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 7193817761
+    },
+    {
+      "id": "",
+      "name": "데이리스타 밀쉬 멸균우유, 1L, 36개",
+      "price": 83520,
+      "weight": 1000,
+      "pricePerGram": 83.52,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=332850485&itemId=24271821264&vendorItemId=91288326682&traceid=V0-153-7fc65a7606dcf810&clickBeacon=b3d6cc50-130c-11f1-a501-934058c57102%7E3&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 332850485
+    },
+    {
+      "id": "",
+      "name": "무항생제 인증 1등급 원유 제주 지헌목장 홍스요구르트 무슈가 500ml, 9개, 500ml",
+      "price": 48000,
+      "weight": 500,
+      "pricePerGram": 96.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9080834514&itemId=26866521733&vendorItemId=93836163670&traceid=V0-153-3b241bf26c0ebc50&clickBeacon=b3d6cc50-130c-11f1-918c-ca6b8b66c386%7E3&requestid=20260226211430273283069909&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "우유",
+      "productId": 9080834514
+    },
+    {
+      "id": "",
+      "name": "브레드가든 인스턴트 이스트",
+      "price": 3040,
+      "weight": 1000,
+      "pricePerGram": 3.04,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=282875628&itemId=398304213&vendorItemId=3090999275&traceid=V0-153-61284133ba5283b6&requestid=20260226211428072133107636&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "인스턴트이스트",
+      "productId": 282875628
+    },
+    {
+      "id": "",
+      "name": "백설 중력 밀가루",
+      "price": 3420,
+      "weight": 1000,
+      "pricePerGram": 3.42,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7680325877&itemId=25080602159&vendorItemId=91288209106&traceid=V0-153-b4d85cc580e7e8fe&requestid=20260226211425864297475306&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "중력분",
+      "productId": 7680325877
+    },
+    {
+      "id": "",
+      "name": "아이엠소스 바사삭 돈까스 파우더 베타믹스, 1개, 500g",
+      "price": 11000,
+      "weight": 500,
+      "pricePerGram": 22.0,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9000391716&itemId=26375081299&vendorItemId=93362261630&traceid=V0-153-1a9c3c73a9e4ce1f&clickBeacon=b137b770-130c-11f1-b299-1a441d448f35%7E3&requestid=20260226211425864297475306&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "중력분",
+      "productId": 9000391716
+    },
+    {
+      "id": "",
+      "name": "국산 토종 앉은뱅이 통밀가루(박력분), 4개, 700g",
+      "price": 20650,
+      "weight": 700,
+      "pricePerGram": 29.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7202013533&itemId=23676334682&vendorItemId=93555108523&traceid=V0-153-5682da2ecd1c2500&clickBeacon=b137b770-130c-11f1-92ae-f776b4358173%7E3&requestid=20260226211425864297475306&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "중력분",
+      "productId": 7202013533
+    },
+    {
+      "id": "",
+      "name": "코코아 함량 25% 진하고 맛있는 다크 초코칩",
+      "price": 5900,
+      "weight": 1000,
+      "pricePerGram": 5.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7649365015&itemId=20348810579&vendorItemId=92490852087&traceid=V0-153-16c2f697f2f036fb&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 7649365015
+    },
+    {
+      "id": "",
+      "name": "허쉬 미니 세미스위트 초콜릿칩",
+      "price": 6320,
+      "weight": 1000,
+      "pricePerGram": 6.32,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7193536234&itemId=18330012537&vendorItemId=85474581479&traceid=V0-153-16954e1cf0faa10b&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 7193536234
+    },
+    {
+      "id": "",
+      "name": "SKY 다크초코칩",
+      "price": 8300,
+      "weight": 1000,
+      "pricePerGram": 8.3,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6138530431&itemId=19344756351&vendorItemId=71583285146&traceid=V0-153-e2c358951d10958b&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 6138530431
+    },
+    {
+      "id": "",
+      "name": "쿠킹스토리 칼리바우트 다크 청크초콜릿 초코칩",
+      "price": 15880,
+      "weight": 1000,
+      "pricePerGram": 15.88,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7160411139&itemId=24606560531&vendorItemId=91617955929&traceid=V0-153-e620752af80adf93&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 7160411139
+    },
+    {
+      "id": "",
+      "name": "퀘스트뉴트리션 프로틴 바 초콜렛 칩 쿠키 도우 맛 12개입, 720g, 1개",
+      "price": 45910,
+      "weight": 720,
+      "pricePerGram": 63.7639,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=6473479350&itemId=6140630482&vendorItemId=3273024094&traceid=V0-153-5adf4fbd51949fb2&clickBeacon=b33a1720-130c-11f1-9a7a-0cb9f4f926d7%7E3&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 6473479350
+    },
+    {
+      "id": "",
+      "name": "벤앤제리스 카라멜 수트라 코어 아이스크림 파인트 473ml, 4개, 473ml",
+      "price": 43800,
+      "weight": 473,
+      "pricePerGram": 92.6004,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9072000013&itemId=26643344220&vendorItemId=93616864155&traceid=V0-153-0c1030b8d018e5ce&clickBeacon=b33a1720-130c-11f1-842c-4abf7c0c033e%7E3&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 9072000013
+    },
+    {
+      "id": "",
+      "name": "벤앤제리스 하프베이크드 아이스크림 파인트 473ml, 4개, 473ml",
+      "price": 43800,
+      "weight": 473,
+      "pricePerGram": 92.6004,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=9072148584&itemId=26643938745&vendorItemId=93616892404&traceid=V0-153-67c6196ff72c8634&clickBeacon=b33a1720-130c-11f1-8557-512f7d9097bf%7E3&requestid=20260226211429231273828819&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "초콜릿칩",
+      "productId": 9072148584
+    },
+    {
+      "id": "",
+      "name": "브레드가든 템퍼링이 되어있는 코코아파우더",
+      "price": 3800,
+      "weight": 1000,
+      "pricePerGram": 3.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8814783762&itemId=25682997946&vendorItemId=92672302268&traceid=V0-153-d443beeb4dc08080&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 8814783762
+    },
+    {
+      "id": "",
+      "name": "쓴맛이 덜한 부드러운 무가당 프리미엄 코코아가루",
+      "price": 5760,
+      "weight": 1000,
+      "pricePerGram": 5.76,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=25374718&itemId=24723625683&vendorItemId=92489742809&traceid=V0-153-ff6da04ebe2106fb&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 25374718
+    },
+    {
+      "id": "",
+      "name": "큐원 코코아 파우더",
+      "price": 7480,
+      "weight": 1000,
+      "pricePerGram": 7.48,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7214276245&itemId=18626432872&vendorItemId=85761810577&traceid=V0-153-d92fb7f5628a49db&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 7214276245
+    },
+    {
+      "id": "",
+      "name": "허쉬 코코아 파우더",
+      "price": 10010,
+      "weight": 1000,
+      "pricePerGram": 10.01,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5654840286&itemId=11155674712&vendorItemId=93317575378&traceid=V0-153-7c11118d4b3fc188&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 5654840286
+    },
+    {
+      "id": "",
+      "name": "죠애나 무가당 코코아 카카오 가루 파우더 분말 100%",
+      "price": 29900,
+      "weight": 1000,
+      "pricePerGram": 29.9,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8185856634&itemId=23410145338&vendorItemId=90890860162&traceid=V0-153-d90dfbeb4e857722&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 8185856634
+    },
+    {
+      "id": "",
+      "name": "colorfood 코코아 파우더, 600g, 1개입, 2개",
+      "price": 42480,
+      "weight": 600,
+      "pricePerGram": 70.8,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=5502853827&itemId=18763845320&vendorItemId=90759118788&traceid=V0-153-2155f9d0179065e8&clickBeacon=b306ab10-130c-11f1-885b-9fe921b10b36%7E3&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 5502853827
+    },
+    {
+      "id": "",
+      "name": "네이쳐티 zero 초코 파우더, 500g, 1개입, 5개",
+      "price": 51250,
+      "weight": 500,
+      "pricePerGram": 102.5,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=8085483047&itemId=27302908789&vendorItemId=94269437171&traceid=V0-153-8c11258dffd2d292&clickBeacon=b306ab10-130c-11f1-afae-72af0db22b97%7E3&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 8085483047
+    },
+    {
+      "id": "",
+      "name": "민트라벨 자바칩 파우더 1kg I 커피칩 분말 I 카페용 시럽 대체 I 초코칩 향 자바칩 I 자바칩 분말, 12개, 1kg, 1개입",
+      "price": 155450,
+      "weight": 1000,
+      "pricePerGram": 155.45,
+      "coupangLink": "https://link.coupang.com/re/AFFSDP?lptag=AF7912448&pageKey=7370720051&itemId=25249770554&vendorItemId=92245483844&traceid=V0-153-a991512e96c0906b&clickBeacon=b306ab10-130c-11f1-99fc-225a6ac87949%7E3&requestid=20260226211428903220983212&token=31850C%7CMIXED&landing_exp=APP_LANDING_A",
+      "sourceKeyword": "코코아파우더",
+      "productId": 7370720051
+    }
+  ]
+}
