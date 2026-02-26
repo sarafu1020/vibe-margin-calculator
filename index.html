@@ -65,13 +65,16 @@
     <table>
       <thead>
         <tr>
-          <th style="width:22%">재료 선택(검색)</th>
-          <th style="width:10%" class="num">DB 원/g</th>
-          <th style="width:12%">직접단가(원/g)</th>
-          <th style="width:10%">사용량(g)</th>
-          <th style="width:12%" class="num">투입원가</th>
-          <th style="width:24%">쿠팡링크</th>
-          <th style="width:10%">삭제</th>
+          <th style="width:18%">재료 선택(검색)</th>
+          <th style="width:10%">직접 구매가(원)</th>
+          <th style="width:10%">직접 용량(g)</th>
+          <th style="width:10%" class="num">DB 단가(원/g)</th>
+          <th style="width:10%" class="num">직접단가(원/g)</th>
+          <th style="width:10%" class="num">적용단가(원/g)</th>
+          <th style="width:8%">사용량(g)</th>
+          <th style="width:10%" class="num">투입원가</th>
+          <th style="width:10%">쿠팡링크</th>
+          <th style="width:4%">삭제</th>
         </tr>
       </thead>
       <tbody id="rows"></tbody>
@@ -251,9 +254,12 @@ function refreshMaterialDatalist(){
 
 function rowHtml(){
   return `<tr>
-    <td><input class="matName" list="materialList" placeholder="재료명 검색/선택 또는 직접입력"></td>
-    <td class="num unitCost">0.00</td>
-    <td><input class="customUnitPrice" type="text" inputmode="decimal" placeholder="DB 없으면 입력" disabled></td>
+    <td><input class="matName" list="materialList" placeholder="재료명 검색/선택"></td>
+    <td><input class="customPrice" type="text" inputmode="numeric" placeholder="예: 13,500"></td>
+    <td><input class="customWeight" type="number" min="0" step="0.01" placeholder="예: 450"></td>
+    <td class="num dbUnitCost">0.00</td>
+    <td class="num customUnitCost">0.00</td>
+    <td class="num appliedUnitCost">0.00</td>
     <td><input class="usedG" type="number" min="0" step="0.01" value="0"></td>
     <td class="num subCost">0</td>
     <td>
@@ -271,17 +277,18 @@ function addRecipeRow(data){
   if(data){
     tr.querySelector('.matName').value = data.materialName || '';
     tr.querySelector('.usedG').value = data.amount || 0;
-    tr.querySelector('.customUnitPrice').value = data.customUnitPrice ?? '';
+    tr.querySelector('.customPrice').value = data.customPrice ? nf(data.customPrice) : '';
+    tr.querySelector('.customWeight').value = data.customWeight ?? '';
   }
 
   tr.querySelector('.matName').addEventListener('change', ()=> syncRowMaterial(tr));
   tr.querySelector('.matName').addEventListener('blur', ()=> syncRowMaterial(tr));
   tr.querySelector('.usedG').addEventListener('input', calc);
-  tr.querySelector('.customUnitPrice').addEventListener('input', calc);
-  tr.querySelector('.customUnitPrice').addEventListener('blur', ()=> {
-    const el = tr.querySelector('.customUnitPrice');
-    const n = parseMoney(el.value);
-    el.value = n ? n.toFixed(2) : '';
+  tr.querySelector('.customPrice').addEventListener('input', calc);
+  tr.querySelector('.customWeight').addEventListener('input', calc);
+  tr.querySelector('.customPrice').addEventListener('blur', ()=> {
+    const el = tr.querySelector('.customPrice');
+    el.value = el.value ? nf(parseMoney(el.value)) : '';
     calc();
   });
   tr.querySelector('.delRow').onclick = ()=> { tr.remove(); calc(); };
@@ -293,20 +300,14 @@ function syncRowMaterial(tr){
   const name = tr.querySelector('.matName').value.trim();
   const mat = getMaterials().find(m => m.name === name);
   const a = tr.querySelector('.buy');
-  const custom = tr.querySelector('.customUnitPrice');
   if(mat){
     tr.querySelector('.matId').value = mat.id;
-    tr.querySelector('.unitCost').textContent = pricePerGram(mat).toFixed(2);
-    custom.value = '';
-    custom.disabled = true;
-    custom.placeholder = 'DB 단가 자동사용';
+    tr.querySelector('.dbUnitCost').textContent = pricePerGram(mat).toFixed(2);
     a.href = mat.coupangLink || '#';
     a.textContent = mat.coupangLink ? '구매링크 열기' : '구매링크 없음';
   } else {
     tr.querySelector('.matId').value = '';
-    tr.querySelector('.unitCost').textContent = '0.00';
-    custom.disabled = false;
-    custom.placeholder = '직접단가 입력';
+    tr.querySelector('.dbUnitCost').textContent = '0.00';
     a.removeAttribute('href');
     a.textContent = '구매링크 없음';
   }
@@ -318,8 +319,9 @@ function getRecipeRows(){
     const materialId = tr.querySelector('.matId').value;
     const materialName = tr.querySelector('.matName').value.trim();
     const amount = Number(tr.querySelector('.usedG').value || 0);
-    const customUnitPrice = parseMoney(tr.querySelector('.customUnitPrice').value || 0);
-    return { materialId, materialName, amount, customUnitPrice };
+    const customPrice = parseMoney(tr.querySelector('.customPrice').value || 0);
+    const customWeight = Number(tr.querySelector('.customWeight').value || 0);
+    return { materialId, materialName, amount, customPrice, customWeight };
   }).filter(x => x.materialName && x.amount > 0);
 }
 
@@ -331,10 +333,18 @@ function calc(){
     const matId = tr.querySelector('.matId').value;
     const used = Number(tr.querySelector('.usedG').value || 0);
     const m = materials.find(x => x.id === matId);
-    const customUnit = parseMoney(tr.querySelector('.customUnitPrice').value || 0);
-    const unit = m ? pricePerGram(m) : customUnit;
-    const sub = unit * used;
-    tr.querySelector('.unitCost').textContent = m ? unit.toFixed(2) : '직접';
+
+    const dbUnit = m ? pricePerGram(m) : 0;
+    const customPrice = parseMoney(tr.querySelector('.customPrice').value || 0);
+    const customWeight = Number(tr.querySelector('.customWeight').value || 0);
+    const customUnit = (customPrice > 0 && customWeight > 0) ? (customPrice / customWeight) : 0;
+
+    const appliedUnit = customUnit > 0 ? customUnit : dbUnit;
+    const sub = appliedUnit * used;
+
+    tr.querySelector('.dbUnitCost').textContent = dbUnit.toFixed(2);
+    tr.querySelector('.customUnitCost').textContent = customUnit.toFixed(2);
+    tr.querySelector('.appliedUnitCost').textContent = appliedUnit.toFixed(2);
     tr.querySelector('.subCost').textContent = nf(sub);
     matTotal += sub;
   });
@@ -435,14 +445,16 @@ $('copySummaryBtn').onclick = () => {
 };
 
 $('copyRowsBtn').onclick = () => {
-  const header = '재료명,사용량(g),원/g,투입원가,쿠팡링크';
+  const header = '재료명,사용량(g),DB단가(원/g),직접단가(원/g),적용단가(원/g),투입원가,쿠팡링크';
   const rows = [...document.querySelectorAll('#rows tr')].map(tr => {
     const name = tr.querySelector('.matName').value.replaceAll(',', ' ');
     const used = tr.querySelector('.usedG').value;
-    const unit = tr.querySelector('.unitCost').textContent;
+    const dbUnit = tr.querySelector('.dbUnitCost').textContent;
+    const customUnit = tr.querySelector('.customUnitCost').textContent;
+    const appliedUnit = tr.querySelector('.appliedUnitCost').textContent;
     const sub = tr.querySelector('.subCost').textContent.replaceAll(',', '');
     const link = tr.querySelector('.buy').getAttribute('href') || '';
-    return `${name},${used},${unit},${sub},${link}`;
+    return `${name},${used},${dbUnit},${customUnit},${appliedUnit},${sub},${link}`;
   });
   copyText([header, ...rows].join('\n'), '재료 CSV 복사 완료');
 };
